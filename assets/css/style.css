@@ -166,3 +166,31 @@ body::before {
 .terms a:hover {
     text-decoration: underline;
 }
+
+@media screen and (max-width: 1330px) {
+    .logo {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    .login_body {
+       width: 400px;
+        max-width: 450px;
+        
+    }
+}
+
+@media screen and (max-width: 1064px){
+    .logo {
+        display: flex;
+        justify-content: space-around;
+
+    }
+
+    .login_body {
+       width: 400px;
+        max-width: 450px;
+        
+    }
+}
