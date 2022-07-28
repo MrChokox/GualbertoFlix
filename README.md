@@ -1,1 +1,4 @@
-Projeto de Recriação da Tela da Netflix
+# GualbertoFlix
+
+Nesse projetinho pratico um pouco de HTML, CSS e JavaScript, recriando a tela da Netflix 
+
